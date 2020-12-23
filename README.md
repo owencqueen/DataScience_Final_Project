@@ -1,4 +1,4 @@
-# DataScience_Final_Project
+# MATH 499 Final Project
 Final Project Questions for MATH 499 - Linear Algebra for Data Science
 
 We were assigned 6 problems throughout the course where we were asked to analyze several datasets and apply knowledge we learned during the course. The topics for each of the questions are listed below, but you can find the project questions [here](https://github.com/owencqueen/DataScience_Final_Project/blob/main/project_questions.pdf).
